@@ -1,5 +1,5 @@
 {
-  "name": "addModule",
+  "name": "add",
   "version": "1.0.1",
   "description": "求和的函数，commonJS模块，最后要上传到npm库",
   "main": "index.js",
